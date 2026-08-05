@@ -209,11 +209,11 @@ Actualmente me estoy especializando en **Python, SQL y Análisis de Datos**, mie
 
 # 📫 Contacto
 
-📧 Email: tucorreo@email.com
+📧 Email: alexaaoerozco@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+💼 LinkedIn: https://www.linkedin.com/in/alexandra-peña-orozco-9a3451425/
 
-🐙 GitHub: https://github.com/tuusuario
+🐙 GitHub: https://github.com/Alexandra009mm
 
 ---
 
