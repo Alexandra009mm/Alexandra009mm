@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Alexandra Peña Orozco
 
 ## 💻 Software Developer | Data Analyst | SQL Enthusiast
 
