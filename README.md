@@ -215,6 +215,4 @@ Actualmente me estoy especializando en **Python, SQL y Análisis de Datos**, mie
 
 🐙 GitHub: https://github.com/Alexandra009mm
 
----
 
-> *"Los datos cuentan historias; mi trabajo es descubrirlas y convertirlas en decisiones."* 📊
