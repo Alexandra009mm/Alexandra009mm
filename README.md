@@ -1,218 +1,140 @@
-# 👋 ¡Hola! Soy Alexandra Peña Orozco
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Alexandra Peña Orozco — Software Developer | Data Analyst | Data Engineer | Cloud Enthusiast" />
+</div>
 
-## 💻 Software Developer | Data Analyst | SQL Enthusiast
-
-Soy un desarrollador en formación apasionado por la tecnología, el análisis de datos y la creación de soluciones que resuelvan problemas reales. Disfruto aprender constantemente y entender cómo funcionan los sistemas desde el diseño de una base de datos hasta el análisis y visualización de la información.
-
-Actualmente me estoy especializando en **Python, SQL y Análisis de Datos**, mientras fortalezco mis conocimientos en desarrollo de software y buenas prácticas de programación.
-
----
-
-# 🚀 Tech Stack
-
-## 👨‍💻 Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Alexandra009mm"><img src="https://img.shields.io/badge/GitHub-Alexandra009mm-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/alexandra-pe%C3%B1a-orozco-9a3451425/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alexaaoerozco@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-# 🐍 Python
+## 👩‍💻 Sobre mí
 
-- Programación Orientada a Objetos (POO)
-- Funciones y módulos
-- Manejo de archivos
-- Excepciones
-- Comprensiones
-- Decoradores (básico)
-- Virtual Environments (venv)
-- Pip
-- Estructuras de datos
-- Buenas prácticas (PEP8)
+Soy desarrolladora junior en formación en **Riwi**, con experiencia práctica en **desarrollo Full Stack**, **ingeniería de datos**, **análisis de datos**, **bases de datos**, **automatización**, **DevOps** y **arquitectura cloud con AWS**.
 
-### Librerías
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Requests
-- JSON
-- Datetime
+Me interesa diseñar soluciones que conecten software y datos: desde APIs y aplicaciones web hasta pipelines ETL y analítica operacional.
 
 ---
 
-# 📊 Data Analytics
+## 📊 GitHub Analytics
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Estadística descriptiva
-- Visualización de datos
-- Detección de outliers
-- Valores nulos
-- Duplicados
-- Ingeniería de características (básica)
-- Storytelling con datos
-- KPIs
-- Insights de negocio
+<div align="center">
 
----
+<img src="assets/stats-overview.svg" width="100%" alt="Resumen de GitHub" />
+<br /><br />
+<img src="assets/stats-languages.svg" width="100%" alt="Distribución de lenguajes" />
+<br /><br />
+<img src="assets/stats-activity.svg" width="100%" alt="Actividad de contribuciones" />
+<br /><br />
 
-# 🗄️ Bases de Datos
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
+  <img src="assets/snake-dark.svg" width="100%" alt="Contribution snake" />
+</picture>
 
-## PostgreSQL
+</div>
 
-- DDL
-- DML
-- DCL
-- TCL
-- CRUD
-- JOINS
-- GROUP BY
-- HAVING
-- ORDER BY
-- LIMIT
-- Subconsultas
-- Vistas
-- Índices (básico)
+### 🕒 Actividad reciente
 
-### Diseño
-
-- Modelo Relacional
-- Modelo Entidad-Relación
-- Cardinalidad
-- Claves Primarias
-- Claves Foráneas
-- Normalización
-- 1FN
-- 2FN
-- 3FN
+<!-- RECENT:START -->
+_Se actualiza automáticamente con GitHub Actions._
+<!-- RECENT:END -->
 
 ---
 
-# 🌐 Desarrollo Web
+## 🧰 Tech Stack
 
-## Frontend
+<div align="center">
 
-- HTML5 Semántico
-- CSS3
-- Responsive Design
-- Flexbox
-- CSS Grid
-- Animaciones
-- JavaScript DOM
-- Fetch API
-- Consumo de APIs REST
-- LocalStorage
-- Modularización
+<table>
+  <tr>
+    <td align="right"><b>Lenguajes</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Lenguajes" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,nextjs" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" /> <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square" alt="REST APIs" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data Engineering</b></td>
+    <td><img src="https://skillicons.dev/icons?i=airflow,spark,pandas,numpy" alt="Data Engineering" /> <img src="https://img.shields.io/badge/ETL-0f172a?style=flat-square" alt="ETL" /> <img src="https://img.shields.io/badge/Data_Warehousing-0f172a?style=flat-square" alt="Data Warehousing" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions" alt="Cloud y DevOps" /> <img src="https://img.shields.io/badge/CI%2FCD-0f172a?style=flat-square" alt="CI/CD" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Analytics & BI</b></td>
+    <td><img src="https://img.shields.io/badge/Matplotlib-0f172a?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-0f172a?style=flat-square" alt="Seaborn" /> <img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square" alt="Power BI" /></td>
+  </tr>
+</table>
 
----
-
-# ⚙️ Backend
-
-- Node.js (fundamentos)
-- Express (fundamentos)
-- APIs REST
-- JSON
-- Arquitectura MVC (básica)
-
----
-
-# 🐳 Docker
-
-- Docker Desktop
-- Docker Compose
-- Containers
-- Images
-- Networks
-- Volumes
-- Variables de entorno (.env)
-- PostgreSQL en Docker
-- MongoDB en Docker
-- pgAdmin
+</div>
 
 ---
 
-# 🔧 Herramientas
+## 🚀 Proyectos destacados
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- pgAdmin
-- DBeaver
-- Kaggle
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 CargaExpress</h3>
+      <p><i>Supply Chain Data Platform</i></p>
+      <p>Integración de transportadoras, pipelines ETL, arquitectura AWS, APIs REST, procesamiento de datos y analítica operacional.</p>
+      <p><b>Stack:</b> Python · PostgreSQL · Airflow · Spark · Docker · AWS · Terraform · FastAPI</p>
+      <!-- REEMPLAZAR con la URL real del repositorio -->
+      <p><a href="https://github.com/Alexandra009mm?tab=repositories">Ver repositorio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Odoo SaaS</h3>
+      <p><i>Multi-Tenant AWS Architecture</i></p>
+      <p>Diseño de arquitectura SaaS con aislamiento por cliente, AWS ECS Fargate, Lambda, RDS, Route 53 y automatización.</p>
+      <p><b>Stack:</b> AWS ECS Fargate · Lambda · RDS · Route 53</p>
+      <p><b>Estado:</b> 🟣 Diseño de arquitectura</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 MENTOR</h3>
+      <p><i>Mentorship Management Platform</i></p>
+      <p>Aplicación web full stack con roles y gestión de usuarios.</p>
+      <p><b>Stack:</b> React · Vite · Express · PostgreSQL · Docker</p>
+      <!-- REEMPLAZAR con la URL real del repositorio -->
+      <p><a href="https://github.com/Alexandra009mm?tab=repositories">Ver repositorio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 PowerFit</h3>
+      <p><i>Fitness Management System</i></p>
+      <p>Sistema de gestión de ejercicios, perfiles y entrenamiento.</p>
+      <p><b>Stack:</b> Node.js · Express · PostgreSQL · Docker</p>
+      <!-- REEMPLAZAR con la URL real del repositorio -->
+      <p><a href="https://github.com/Alexandra009mm?tab=repositories">Ver repositorio →</a></p>
+    </td>
+  </tr>
+</table>
 
-# 📈 Visualización de Datos
-
-- Matplotlib
-- Seaborn
-- Histogramas
-- Boxplots
-- Scatterplots
-- Barras
-- Líneas
-- Heatmaps
-
----
-
-# 📂 Proyectos
-
-✔ Sistema de Inventario
-
-✔ Sistema Bancario
-
-✔ Consumo de APIs
-
-✔ Modelado de Bases de Datos
-
-✔ Análisis Exploratorio de Datos (EDA)
-
-✔ Limpieza y transformación de datos
-
-✔ Dashboards en Python
-
-✔ Automatización con Python
-
-✔ Desarrollo Web Responsivo
-
----
-
-# 📚 Actualmente aprendiendo
-
-- Optimización de consultas SQL
-- ETL
-- Machine Learning
-- Power BI
-- Docker avanzado
-- Arquitectura de software
-- Testing
-- Diseño de APIs
+</div>
 
 ---
 
-# 🎯 Objetivos
+## 📫 Contacto
 
-- Convertirme en Data Analyst.
-- Dominar PostgreSQL y Python.
-- Aprender Ciencia de Datos.
-- Construir proyectos de alto impacto.
-- Contribuir a proyectos Open Source.
-- Especializarme en Business Intelligence.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandra-pe%C3%B1a-orozco-9a3451425/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alexaaoerozco@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
-
-# 📫 Contacto
-
-📧 Email: alexaaoerozco@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/alexandra-peña-orozco-9a3451425/
-
-🐙 GitHub: https://github.com/Alexandra009mm
-
-
+<p align="center"><sub>Métricas generadas con GitHub Actions a partir de datos reales de la cuenta · Barranquilla, Colombia</sub></p>
