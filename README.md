@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Alexandra Peña Orozco
+# ¡Hola! Soy Alexandra Peña Orozco
 
 ### 💻 Software Developer | Data Analyst | Data Engineering & Cloud Enthusiast
 
@@ -163,17 +163,6 @@ Aplicación web de gestión de mentorías con roles **CODER, MENTOR y ADMIN**, A
 
 **Stack:** React, Vite, JavaScript, Node.js, Express, PostgreSQL y Docker.
 
-### 💪 PowerFit — Fitness Management System
-
-**Backend Development · Database Design**
-
-Sistema para gestionar perfiles, ejercicios y entrenamientos, con operaciones CRUD, seguimiento y reportes periódicos.
-
-**Stack:** JavaScript, Node.js, Express, PostgreSQL y Docker.
-
-### Otros proyectos y prácticas
-
-Sistemas de inventario y bancarios, consumo de APIs, modelado de bases de datos, análisis exploratorio, limpieza y transformación de datos, dashboards en Python y automatización de procesos.
 
 ## 📚 Actualmente fortaleciendo
 
